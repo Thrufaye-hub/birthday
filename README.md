@@ -1,14 +1,11 @@
-# 1. Clone your new repo locally
-git clone https://github.com/<your‑username>/birthday-gift.git
-cd birthday-gift
+# 🎂 Birthday App
 
-# 2. Copy your files into it
-#    (e.g. birthday_gift.html, style.css, script.js, etc.)
-cp /path/to/your/birthday_gift.html .
-cp /path/to/your/style.css      .
-cp /path/to/your/script.js      .
+🔗 **Live Demo:**  
+https://Thrufaye-hub.github.io/birthday/  
+_(If you renamed `birthday_gift.html` to `index.html`.)_
 
-# 3. Commit & push
-git add .
-git commit -m "Add birthday gift app"
-git push origin main
+## How to Run Locally
+
+```bash
+git clone https://github.com/Thrufaye-hub/birthday.git
+cd birthday
